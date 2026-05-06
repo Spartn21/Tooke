@@ -2,7 +2,7 @@ Tooke - Find Affordable Food Near Ndejje Kampala Campus
 Tooke (from Matooke, Uganda's green banana staple) helps Ndejje University Kampala Campus students discover nearby affordable food spots so no student leaves campus hungry.
 
 Video Presentation
-
+https://youtu.be/Ul80JHY_ns0
 15-minute presentation covering Problem Pitch, UI/UX Walkthrough, Architecture Audit, Code Quality and QA, and App Demo.
 
 Team Roster
