@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="chip_corner_radius">8dp</dimen>
+    <dimen name="icon_size_small">14dp</dimen>
+    <dimen name="icon_size_medium">18dp</dimen>
+    <dimen name="dot_size">8dp</dimen>
+    <dimen name="elevation_card">2dp</dimen>
+    <dimen name="elevation_item">1dp</dimen>
+</resources>

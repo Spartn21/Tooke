@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tooke</string>
+    <string name="app_tagline">Find affordable food near Ndejje Kampala Campus</string>
+    <string name="search_placeholder">Search food, spot, or location…</string>
+    <string name="label_open">Open</string>
+    <string name="label_closed">Closed</string>
+    <string name="label_rating">Rating</string>
+    <string name="label_distance">Distance</string>
+    <string name="label_price_range">Price Range</string>
+    <string name="label_location">Location</string>
+    <string name="label_what_they_serve">What They Serve</string>
+    <string name="label_about">About</string>
+    <string name="label_all">All</string>
+    <string name="about_built_for">Built for Solutions for a Digital Uganda</string>
+    <string name="about_course">Mobile Programming BIT 2205 | Ndejje University</string>
+    <string name="about_version">v1.0.0</string>
+    <string name="no_spots_found">No spots found</string>
+    <string name="no_spots_hint">Try a different search or category</string>
+    <string name="spots_found">%d spots found</string>
+</resources>
